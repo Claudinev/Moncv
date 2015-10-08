@@ -1,0 +1,18 @@
+{
+  "name": "moncv",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "bootswatch": "~3.3.5+4"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": [
+        "less/bootstrap.less",
+        "dist/css/bootstrap.css",
+        "dist/js/bootstrap.js",
+        "dist/fonts/*"
+      ]
+    }
+  }
+}
