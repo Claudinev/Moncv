@@ -1,0 +1,42 @@
++body{
++ font-family: Helvetica;
++ background-color: white;
++ margin: 2%;
++}
++
++
++
++header{
++	top:100px;
++	left:50%;
++    height: 100px;
++}
++
++hr
++{
++  color:black;
++}
++
++p{
++  color: black;
++  font-weight: bold;
++  font-style: oblique;
++  background-color:@gray-lighter: lighten(#000, 93.5%);
++}
++
++
++div{
++  margin:0%;
++  padding-bottom:0px;
++}
++
++table{
++	background-color: #F0F8FF;
++	width: 70%;
++}
++
++
++.right
++{
++	clear:right; 
++    } 
